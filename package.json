@@ -1,0 +1,14 @@
+{
+  "name": "@khattakdev/even",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "echo 'This package is by KhattakDev'"
+  },
+  "keywords": [
+    "even"
+  ],
+  "author": "khattakdev",
+  "license": "ISC"
+}
